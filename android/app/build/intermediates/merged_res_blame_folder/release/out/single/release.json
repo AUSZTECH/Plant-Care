@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-mdpi_assets_images_profilepicture.jpg.flat",
+        "source": "com.plantcare.app-react-26:/drawable-mdpi/assets_images_profilepicture.jpg"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-mdpi_assets_images_potato.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-mdpi/assets_images_potato.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.plantcare.app-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-mdpi_assets_images_tomato.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-mdpi/assets_images_tomato.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.plantcare.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.plantcare.app-merged_res-31:/drawable-mdpi_assets_images_plant.png.flat",
+        "source": "com.plantcare.app-react-26:/drawable-mdpi/assets_images_plant.png"
+    }
+]
